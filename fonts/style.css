@@ -1,0 +1,10 @@
+section {
+	position: fixed;
+	left: 0;
+	top: 0;
+	width: 100%;
+}
+
+.section-1 {
+	background-image: url('/2.JS Practice/img');
+}
